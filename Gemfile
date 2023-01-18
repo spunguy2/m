@@ -9,7 +9,7 @@ gem 'puma', '~> 4.3'
 gem 'rails', '~> 6.0.2'
 gem 'sprockets', '~> 3.7.2'
 gem 'thor', '~> 0.20'
-gem 'rack', '~> 2.2.2'
+gem 'rack', '~> 2.2.6'
 
 gem 'thwait', '~> 0.1.0'
 gem 'e2mmap', '~> 0.1.0'
